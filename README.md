@@ -12,8 +12,9 @@ $ pip3 install -r requirements.txt
 ```
 * And finally you're good to GO :)
 
-* Im always open to your feedbacks, so feel free to contact me or contribute in my projects.
-* Also **big shoutout** to my Boi @pwaller for his awesome project.
-
 # Some Samples
 * will be added soon
+
+# Further Notes
+* Im always open to your feedbacks, so feel free to contact me or contribute in my projects.
+* Also **big shoutout** to my Boi @pwaller for his awesome project.
