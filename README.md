@@ -38,6 +38,30 @@ $ [♦] Enter a string: AsciiGen
   #####  #####    #### ###### ######      ## ####### ##   ##  
                                       #####                   
 ```
+```bash
+$ python3 ./asciiFun.py
+++++++++++ MENU ++++++++++
+1. Credits
+2. Generate New Ascii Art
+3. Upate Local Fonts
+4. Copy this Ascii Art to the clipboard  
+5. Show current Font name
+6. Choose a Font to use for the next run 
+7. Exit
++++++++++++++++++++++++++++
+
+
+[♦] Enter your choice (Just the Number): 6
+[♦] Enter the Font name (Without .flf): broadway
+[♦] Enter a string: AsciiGen
+      `.                              `....                      
+     `. ..                    `. `. `.    `..                    
+    `.  `..     `....    `...      `..           `..    `.. `..  
+   `..   `..   `..     `..   `..`..`..         `.   `..  `..  `..
+  `...... `..    `... `..    `..`..`..   `....`..... `.. `..  `..
+ `..       `..     `.. `..   `..`.. `..    `. `.         `..  `..
+`..         `..`.. `..   `...`..`..  `.....     `....   `...  `..
+```
 
 # Further Notes
 * Im always open to your feedbacks, so feel free to contact me or contribute in my projects.
